@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-<div>
-  <h1 style="text-align: center;">🚧 공사중 🚧</h1>
+<div align="center">
+  <h1>🚧 공사중 🚧</h1>
 </div>
