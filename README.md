@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <hr>
 <div align="center">
   <h1>🚧 공사중 🚧</h1>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Sihyeon-Lee)
 </div>
