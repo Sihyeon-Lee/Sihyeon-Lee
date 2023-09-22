@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-🚧 공사중 🚧
+<h1>🚧 공사중 🚧</h1>
