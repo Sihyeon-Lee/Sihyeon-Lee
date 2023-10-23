@@ -20,4 +20,6 @@ Here are some ideas to get you started:
   <h1>🚧 공사중 🚧</h1>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sihyeon-Lee&show_icons=true&theme=radical)
+
 
