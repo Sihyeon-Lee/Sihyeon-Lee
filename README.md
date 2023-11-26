@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <hr>
 <div align="center">
   <h1>🚧 공사중 🚧</h1>
- 공사 현재진행형 ...
  
 </div>
 
