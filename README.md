@@ -22,10 +22,7 @@ Here are some ideas to get you started:
  
 </div>
 <p align="center">
-<a href="mailto:shlee.ee2e@gamil.com">
-    <img src="https://img.shields.io/badge/
-    Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-</a>
+   <a href="mailto:shlee.ee2e@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=shlee.ee2e@gamil.com"/></a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sihyeon-Lee&show_icons=true&theme=radical)
