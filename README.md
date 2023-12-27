@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi%20there%20👋&animation=twinkling&fontSize=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there%20👋&fontSize=90)
 <!-- ### Hi there 👋 -->
 
 <!--
