@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
  
 </div>
+<a href="shlee.ee2e@gamil.com" target="_blank"><img src="https://img.shields.io/badge/#4285F4?style=google&logo=google&logoColor=#4285F4"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sihyeon-Lee&show_icons=true&theme=radical)
 
