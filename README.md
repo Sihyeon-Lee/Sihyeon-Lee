@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ..
 -->
-
-<hr>
-<div align="center">
-  <h1>🚧 공사중 🚧</h1>
-
- 
-</div>
 <p align="center">
    <a href="mailto:shlee.ee2e@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=shlee.ee2e@gamil.com"/></a>
 </p>
