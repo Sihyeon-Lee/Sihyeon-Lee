@@ -2,7 +2,6 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-- 😄 Pronouns: ..
 - ⚡ Fun fact: ..
 -->
 <p align="center">
