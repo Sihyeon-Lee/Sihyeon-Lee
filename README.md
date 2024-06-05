@@ -2,7 +2,6 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-- ⚡ Fun fact: ..
 -->
 <p align="center">
    <a href="mailto:shlee.ee2e@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=shlee.ee2e@gamil.com"/></a>
